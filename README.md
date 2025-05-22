@@ -21,6 +21,7 @@
   - [Requisitos Não Funcionais](#requisitos-não-funcionais)
 - [Especificações do Trabalho](#especificações-do-trabalho)
 - [Definições](#definições)
+- [Linguagem Utilizada](#linguagem-utilizada)
 
 ---
 
@@ -86,6 +87,12 @@ O SCAM é um sistema desenvolvido com o objetivo de gerenciar o controle e agend
 
 - **Generalização**: Quando uma classe compartilha atributos e métodos com outras classes, caracterizando uma relação de herança.
 - **Especialização**: Quando uma classe derivada possui atributos ou métodos específicos que não são compartilhados com a classe base.
+
+---
+
+## 💻 Linguagem Utilizada
+
+Este projeto foi desenvolvido utilizando a linguagem de programação **C++**, aplicando os conceitos de Programação Orientada a Objetos para a implementação das funcionalidades do sistema.
 
 ---
 
